@@ -7,7 +7,7 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-postition = 0 
+STUDENT_NAMES[0] 
 
 
 def first_student_by_index
