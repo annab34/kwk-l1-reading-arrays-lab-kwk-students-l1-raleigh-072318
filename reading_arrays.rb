@@ -9,6 +9,8 @@ STUDENT_NAMES = [
 
 
 puts STUDENT_NAMES[5]
+puts STUDENT_NAMES[4]
+puts STUDENT_NAMES[0]
 
 
 
