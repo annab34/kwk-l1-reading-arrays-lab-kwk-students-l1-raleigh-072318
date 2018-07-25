@@ -7,7 +7,8 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-STUDENT_NAMES[0] 
+STUDENT_NAMES[0]
+puts 
 
 
 def first_student_by_index
