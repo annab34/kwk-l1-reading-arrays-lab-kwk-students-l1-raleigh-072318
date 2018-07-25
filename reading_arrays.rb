@@ -6,16 +6,16 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna",
   "Doris Day",
-  ""
+  
 ]
 
 # puts STUDENT_NAMES.first 
 # puts STUDENT_NAMES.last 
 
-puts STUDENT_NAMES[0..2]
+# puts STUDENT_NAMES[0..2]
 puts STUDENT_NAMES.first(2)
 
-puts STUDENT_NAMES[3..5]
+# puts STUDENT_NAMES[3..5]
 puts STUDENT_NAMES.last(4)
 
 
