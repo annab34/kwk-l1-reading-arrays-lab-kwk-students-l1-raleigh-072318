@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 
-puts STUDENT_NAMES[4, 0, 5]
+puts STUDENT_NAMES[0, 4, 5]
 
 
 
