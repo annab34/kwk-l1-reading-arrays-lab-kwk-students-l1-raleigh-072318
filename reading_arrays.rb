@@ -10,7 +10,8 @@ STUDENT_NAMES = [
 # puts STUDENT_NAMES.first 
 # puts STUDENT_NAMES.last 
 
-puts STUDENT_NAMES
+puts STUDENT_NAMES[0..2]
+puts STUDENT_NAMES.first(3)
 
 
 
