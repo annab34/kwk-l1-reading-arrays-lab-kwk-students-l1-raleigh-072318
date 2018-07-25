@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 
-puts STUDENT_NAMES[0]
+puts STUDENT_NAMES[4]
 
 
 def first_student_by_index
