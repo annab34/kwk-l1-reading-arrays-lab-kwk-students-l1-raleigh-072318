@@ -7,7 +7,8 @@ STUDENT_NAMES = [
   "Rihanna"
 ]
 
-puts STUDENT_NAMES.second
+puts STUDENT_NAMES.first 
+puts STUDENT_NAMES.last 
 
 
 
